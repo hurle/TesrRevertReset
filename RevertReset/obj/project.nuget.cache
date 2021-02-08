@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6nmE7retaD2D+jKynKWwYRcxP7n1/xtJR7Het+FKwPH6keYrTZqViTDORxGz7gdCVxwokcrpHYmKtdxT7sx2Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ucastaneda\\source\\repos\\TesrRevertReset\\RevertReset\\RevertReset.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ucastaneda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

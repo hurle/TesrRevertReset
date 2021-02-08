@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ucastaneda\\Documents\\Proyectos\\TestRevertReset\\RevertCreate\\RevertCreate\\RevertCreate.csproj": {}
+    "C:\\Users\\ucastaneda\\Source\\Repos\\TesrRevertReset\\RevertCreate\\RevertCreate\\RevertCreate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ucastaneda\\Documents\\Proyectos\\TestRevertReset\\RevertCreate\\RevertCreate\\RevertCreate.csproj": {
+    "C:\\Users\\ucastaneda\\Source\\Repos\\TesrRevertReset\\RevertCreate\\RevertCreate\\RevertCreate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ucastaneda\\Documents\\Proyectos\\TestRevertReset\\RevertCreate\\RevertCreate\\RevertCreate.csproj",
+        "projectUniqueName": "C:\\Users\\ucastaneda\\Source\\Repos\\TesrRevertReset\\RevertCreate\\RevertCreate\\RevertCreate.csproj",
         "projectName": "RevertCreate",
-        "projectPath": "C:\\Users\\ucastaneda\\Documents\\Proyectos\\TestRevertReset\\RevertCreate\\RevertCreate\\RevertCreate.csproj",
+        "projectPath": "C:\\Users\\ucastaneda\\Source\\Repos\\TesrRevertReset\\RevertCreate\\RevertCreate\\RevertCreate.csproj",
         "packagesPath": "C:\\Users\\ucastaneda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ucastaneda\\Documents\\Proyectos\\TestRevertReset\\RevertCreate\\RevertCreate\\obj\\",
+        "outputPath": "C:\\Users\\ucastaneda\\Source\\Repos\\TesrRevertReset\\RevertCreate\\RevertCreate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ucastaneda\\AppData\\Roaming\\NuGet\\NuGet.Config",

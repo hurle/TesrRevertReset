@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mrQy3eNYT5YW24XJ883Ioyb6Qo81WjVDEdPl18VBRknpqToP9nTm95juDCHUVhzQs9Pjxd2JXkkllntuMppTSA==",
+  "dgSpecHash": "lnDSBtMxzy7sobZH/Egdi2vFzRMg2UP0Ykn899iWW2BttktzBR3SzKSWf1mzE0f/jWW+QRkzv0+OI/vjTDllPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ucastaneda\\Documents\\Proyectos\\TestRevertReset\\RevertCreate\\RevertCreate\\RevertCreate.csproj",
+  "projectFilePath": "C:\\Users\\ucastaneda\\Source\\Repos\\TesrRevertReset\\RevertCreate\\RevertCreate\\RevertCreate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ucastaneda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

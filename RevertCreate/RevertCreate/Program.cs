@@ -6,7 +6,7 @@ namespace RevertCreate
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Test commit");
         }
     }
 }
