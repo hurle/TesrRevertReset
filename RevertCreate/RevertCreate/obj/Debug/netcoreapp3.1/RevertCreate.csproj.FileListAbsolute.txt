@@ -1,0 +1,13 @@
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\bin\Debug\netcoreapp3.1\RevertCreate.exe
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\bin\Debug\netcoreapp3.1\RevertCreate.deps.json
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\bin\Debug\netcoreapp3.1\RevertCreate.runtimeconfig.json
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\bin\Debug\netcoreapp3.1\RevertCreate.runtimeconfig.dev.json
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\bin\Debug\netcoreapp3.1\RevertCreate.dll
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\bin\Debug\netcoreapp3.1\RevertCreate.pdb
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\obj\Debug\netcoreapp3.1\RevertCreate.AssemblyInfoInputs.cache
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\obj\Debug\netcoreapp3.1\RevertCreate.AssemblyInfo.cs
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\obj\Debug\netcoreapp3.1\RevertCreate.csproj.CoreCompileInputs.cache
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\obj\Debug\netcoreapp3.1\RevertCreate.dll
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\obj\Debug\netcoreapp3.1\RevertCreate.pdb
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\obj\Debug\netcoreapp3.1\RevertCreate.genruntimeconfig.cache
+C:\Users\ucastaneda\Documents\Proyectos\TestRevertReset\RevertCreate\RevertCreate\obj\Debug\netcoreapp3.1\RevertCreate.csprojAssemblyReference.cache
